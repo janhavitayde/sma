@@ -1,5 +1,5 @@
 **EXP 1:** 
-Study practical on social media platforms and tools (WORD)
+Study practical on social media platforms and tools (WORD) \n
 **EXP 2:** 
 Web data scrapping (octoparse)
 **EXP 3:** 
