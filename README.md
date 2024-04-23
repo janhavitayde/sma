@@ -1,6 +1,5 @@
 **EXP 1:** 
 Study practical on social media platforms and tools (WORD)
-
 **EXP 2:** 
 Web data scrapping (octoparse)
 
